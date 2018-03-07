@@ -12,7 +12,6 @@ public class main implements Runnable {
 
     public static void main(String[] args) {
         new main();
-        System.out.println("unnamed");
     }
 
     public main() {
